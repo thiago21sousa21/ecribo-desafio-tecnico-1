@@ -1,2 +1,3 @@
 # Para rodar a função
-- Abra o terminal e digite: `node dividers.js`
+- baixe ou clone o diretório e o abra no terminal
+- digite: `node dividers.js`
